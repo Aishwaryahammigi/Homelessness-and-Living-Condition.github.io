@@ -61,11 +61,11 @@ Timely and tailored assistance leads to better hygiene, health, and overall livi
 
 - *Course Name*: Algorithms Lab 
 - *Course Code*: 24ECAP202  
-- *Name*: Suhani Alatkar
-- *SRN*: 02fe23bci008
-- *Course Instructor*: Priyanka Gavade  
+- *Name*: Aishwarya Hammigi
+- *SRN*: 02FE23BCS012
+- *Course Instructor*: Vaishali Y Parab
 - *University*:KLE TECHNOLOGICAL UNIVERSITY
-  - *Topic:* Homeless And Public Services
+  - *Topic:* Homelessness and Living Conditions
 ---
 
 ## 🎨 What Drives Me  
