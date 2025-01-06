@@ -1,4 +1,4 @@
-## *Portfolio*
+## **Portfolio**
 
 ### Hello, I'm Aishwarya 👋
 
@@ -8,9 +8,9 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### *HOMELESS AND PUBLIC SERVICES*  
+### **HOMELESS AND PUBLIC SERVICES**  
 
-*OVERVIEW:* 
+**OVERVIEW:** 
 1. Lack of Access to Schools
 Schools may be located far from slums, making attendance difficult.
 Insufficient number of schools to cater to growing populations in slums.
@@ -24,12 +24,12 @@ Inadequate teaching materials and resources.
 Stigma and discrimination against slum residents can discourage children from attending school.
 Gender inequality, where girls may face additional barriers like early marriage or safety concerns.
 
-*Technical Stack:*  
+**Technical Stack:**  
 Languages: C++, Java
 Algorithms: Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
 Tools: Graphs, DAA Optimization Techniques
 
-*Impact:* 
+**Impact:**
 1. Enhanced Resource Allocation:
 Ensures resources like food, shelter, and medical aid reach the most vulnerable families efficiently.
 2. Increased Transparency:
@@ -52,20 +52,20 @@ Timely and tailored assistance leads to better hygiene, health, and overall livi
 - [LinkedIn](https://www.linkedin.com/in/aishwarya-hammigi-0490092a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ## Portfolio Highlights
 
-### 🎯 *Topic:* Homeless And Public Services
+### 🎯 **Topic:** Homeless And Public Services
 
 - DAA (Design and Analysis of Algorithms)  
 - Focus: Algorithmic Problem Solving for Pollution cities  
 
-### 📋 *Details:*
+### 📋 **Details:**
 
-- *Course Name*: Algorithms Lab 
-- *Course Code*: 24ECAP202  
-- *Name*: Aishwarya Hammigi
-- *SRN*: 02FE23BCS012
-- *Course Instructor*: Vaishali Y Parab
-- *University*:KLE TECHNOLOGICAL UNIVERSITY
-  - *Topic:* Homelessness and Living Conditions
+- **Course Name**: Algorithms Lab 
+- **Course Code**: 24ECAP202  
+- **Name**: Aishwarya Hammigi
+- **SRN**: 02FE23BCS012
+- **Course Instructor**: Vaishali Y Parab
+- **University**:KLE TECHNOLOGICAL UNIVERSITY
+  - **Topic:** Homelessness and Living Conditions
 ---
 
 ## 🎨 What Drives Me  
