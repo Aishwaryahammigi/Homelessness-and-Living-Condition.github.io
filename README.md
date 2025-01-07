@@ -11,18 +11,21 @@ Here's a glimpse into my journey:
 ### **HOMELESS AND PUBLIC SERVICES**  
 
 **OVERVIEW:** 
-1. Lack of Access to Schools
-Schools may be located far from slums, making attendance difficult.
-Insufficient number of schools to cater to growing populations in slums.
-2. Poverty
-Families often prioritize earning over education, leading children to work instead of attending school.
-Inability to afford uniforms, books, and fees.
-3. Poor Infrastructure
-Overcrowded classrooms and lack of basic facilities like clean drinking water, toilets, or proper lighting.
-Inadequate teaching materials and resources.
-4. Social Barriers
-Stigma and discrimination against slum residents can discourage children from attending school.
-Gender inequality, where girls may face additional barriers like early marriage or safety concerns.
+Economic Factors: Unemployment, low wages, and rising costs of living can lead to homelessness.
+Housing Issues: Lack of affordable housing, evictions, and housing discrimination are significant contributors.
+Health Problems: Mental illness, substance abuse, and chronic health conditions can result in or exacerbate homelessness.
+Family Issues: Domestic violence, family breakdown, and lack of support can push individuals into homelessness.
+Systemic Issues: Inadequate social services, lack of mental health care, and insufficient support for veterans and marginalized groups.
+Living Conditions of the Homeless
+Shelters: Many homeless individuals rely on temporary shelters for accommodation. However, shelters often have limited capacity and may not be available year-round.
+Unsheltered Homelessness: Some live in public spaces like parks, streets, and abandoned buildings. These conditions are harsh and unsafe.
+Encampments: Informal settlements, or tent cities, are created by homeless communities. While they offer some protection and community, they often lack basic amenities.
+Vehicles: Some individuals live in their cars or recreational vehicles, which provide shelter but are not a stable or legal long-term housing solution.
+Couch Surfing: Some homeless people stay temporarily with friends or family, often in overcrowded and unstable conditions.
+Challenges Faced by Homeless Individuals
+Health Risks: Exposure to the elements, lack of sanitation, and limited access to healthcare contribute to poor health outcomes.
+Safety Concerns: Homeless individuals are at higher risk of violence, theft, and exploitation.
+Access to Services: Barriers such as lack of identification, transportation, and awareness limit access to social services and employment opportunities.
 
 **Technical Stack:**  
 Languages: C++, Java
